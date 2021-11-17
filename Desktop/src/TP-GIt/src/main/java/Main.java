@@ -10,6 +10,6 @@
 public class Main {
     //test pour changement jbrzijbfs
     
-    System.out.println("Arrête de tout modifier !!!!!!!");
+    System.out.println("Arrête de tout modifier !!!");
     //changement Océane CHABUS 11H20
 }
